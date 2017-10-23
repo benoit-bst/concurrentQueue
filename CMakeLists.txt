@@ -16,6 +16,6 @@ add_executable(units_tests ${Sources})
 target_link_libraries(units_tests PRIVATE gtest ${CMAKE_THREAD_LIBS_INIT})
 
 if (COVERAGE)
-  target_compile_options(tests PRIVATE --coverage)
-  target_link_libraries(tests PRIVATE --coverage)
+  target_compile_options(units_tests PRIVATE --coverage)
+  target_link_libraries(units_tests PRIVATE --coverage)
 endif()
