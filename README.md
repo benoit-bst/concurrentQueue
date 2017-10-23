@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/benoit-bst/concurrentQueue.svg?branch=master)](https://travis-ci.org/benoit-bst/concurrentQueue)
+[![Coverage Status](https://coveralls.io/repos/github/benoit-bst/concurrentQueue/badge.svg?branch=master)](https://coveralls.io/github/benoit-bst/concurrentQueue?branch=master)
 
 # Introduction
 
