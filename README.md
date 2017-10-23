@@ -1,3 +1,5 @@
+https://travis-ci.org/benoit-bst/concurrentQueue.svg?branch=master
+
 # Introduction
 
 ConcurrentQueue class is a thread safe queue. This is an implementation of the classic multiple producer, multiple consumer thread-safe concept. You don't need to care of thread's synchronization. ConcurrentQueue class is non-copyable.
